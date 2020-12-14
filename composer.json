@@ -1,0 +1,8 @@
+{
+  "name": "drupal/silly_text_formatters",
+  "type": "drupal-module",
+  "description": "Provides silly formatters",
+  "require": {
+    "cocur/slugify": "^2.2"
+  }
+}

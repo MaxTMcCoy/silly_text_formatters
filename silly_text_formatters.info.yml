@@ -1,0 +1,6 @@
+name: Silly Text Formatters
+type: module
+description: Assortment of super silly text formatters
+package: Custom
+core: 8.x
+core_version_requirement: ^8 || ^9

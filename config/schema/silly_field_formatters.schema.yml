@@ -1,0 +1,21 @@
+field.formatter.settings.silly_text_formatters_rot:
+  type: mapping
+  label: 'Rot Encoding Level'
+  mapping:
+    rot_level:
+      type: integer
+      label: 'Encoding level'
+field.formatter.settings.silly_text_formatters_slugify:
+  type: mapping
+  label: 'Slugify Seperator'
+  mapping:
+    seperator:
+      type: char
+      label: 'Seperator character'
+field.formatter.settings.silly_text_formatters_tool_tip:
+  type: mapping
+  label: 'Tool Tip'
+  mapping:
+    tip:
+      type: string
+      label: 'The tool tip'

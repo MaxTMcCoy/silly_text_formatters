@@ -1,0 +1,9 @@
+tooltip:
+  js:
+    https://cdnjs.cloudflare.com/ajax/libs/qtip2/3.0.3/jquery.qtip.min.js: { type: external, minified: true }
+    js/tooltip.js: {}
+  css:
+    theme:
+      https://cdnjs.cloudflare.com/ajax/libs/qtip2/3.0.3/jquery.qtip.css: { type: external }
+  dependencies:
+    - core/jquery

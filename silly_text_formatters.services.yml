@@ -1,0 +1,3 @@
+services:
+  cocur.slugify:
+    class: Cocur\Slugify\Slugify
